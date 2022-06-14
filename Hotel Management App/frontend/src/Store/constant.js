@@ -1,0 +1,12 @@
+const ActionTypes ={
+    
+    USER_LOGIN : "USER_LOGIN",
+    ADD_USER : "ADD_USER",
+    SET_AUTH_LOADING : "SET_AUTH_LOADING",
+    USER_GETTING_LOADING : "USER_GETTING_LOADING",
+    SET_ERROR : "SET_ERROR",
+    GET_ALL_USERS : "GET_ALL_USERS",
+
+}
+
+export default ActionTypes
